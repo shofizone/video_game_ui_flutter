@@ -29,5 +29,9 @@ final pubgForum = Forum(
 
 final forums = [
   fortniteForum,
+  pubgForum,
+  fortniteForum,
+  pubgForum,
+  fortniteForum,
   pubgForum
 ];
